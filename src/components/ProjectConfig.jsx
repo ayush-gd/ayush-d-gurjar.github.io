@@ -1,7 +1,7 @@
 /* eslint-disable */
 export const AllProjects = [
     {
-        image: 'https://upload.wikimedia.org/wikipedia/en/5/5b/Occupational_English_Test_logo.png',
+        image: './images/OET_project.png',
         title: 'HUB-Decipher OET',
         bodyText: [
             'Led the maintenance and updates of a production codebase the platform, ensuring optimal performance and stability. Developed and integrated new features to the existing hub, resulting in improved user experience.',
@@ -20,7 +20,7 @@ export const AllProjects = [
         ],
     },
      {
-        image: 'https://lh3.googleusercontent.com/JqK7RKj00B4tMM_WIpjFxOnVCGUQk2ScEfP1zyl9jSrd6xT24_ZxjckVznPSw1txOOLNSZukdAn-Tn7uI4neSostMA=w128-h128-e365-rj-sc0x00ffffff',
+        image: './images/LGCY_project.png',
         title: 'LGCY Java Grpc SDK',
         bodyText: [
             '- As the project leader of a gRPC project, my team and I were responsible for developing a high-performance, scalable, and reliable system for our client.',
@@ -34,7 +34,7 @@ export const AllProjects = [
         ],
     },
      {
-        image: 'https://lh3.googleusercontent.com/JqK7RKj00B4tMM_WIpjFxOnVCGUQk2ScEfP1zyl9jSrd6xT24_ZxjckVznPSw1txOOLNSZukdAn-Tn7uI4neSostMA=w128-h128-e365-rj-sc0x00ffffff',
+        image: './images/LGCY_project.png',
         title: 'LGCY Wallet Chrome Extension',
         bodyText: [
             '- A browser extension for chrome which offers various features for lgcy blockchain and platform users',
@@ -53,7 +53,7 @@ export const AllProjects = [
         ],
     },
     {
-        image: 'https://lgcyscan.network/assets/img/logo.png',
+        image: './images/LGCY_project.png',
         title: 'Lgcy',
         bodyText: [
             '- LGCY Network is an open-source, programmable smart contracts platform for decentralized applications.',
